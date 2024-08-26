@@ -24,14 +24,36 @@
             "id": "903e2cf4ba67e90a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-26 15.13.59.excalidraw.md"
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "42c67995a8f32bb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77b3dcf6d9ffc5fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-26 15.13.59.excalidraw.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-26 15.13.59.excalidraw.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-26 15.13.59.excalidraw.md"
+                "file": "README.md"
               }
             }
           }
@@ -160,8 +182,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d52a1fcafd2c4cd4",
+  "active": "77b3dcf6d9ffc5fd",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-08-26 15.13.59.excalidraw.md",
     "Excalidraw/excalidrawLibrary/oracle-cloud-infrastructure-icons.excalidrawlib",
     "Excalidraw/excalidrawLibrary/dnd-ttrpg-battle-map-creature-tokens.excalidrawlib",
     "Excalidraw/excalidrawLibrary/simple-characters.excalidrawlib",
@@ -172,8 +195,6 @@
     "Excalidraw/excalidrawLibrary/fair-web-icons.excalidrawlib",
     "Excalidraw/excalidrawLibrary/basic-system-design.excalidrawlib",
     "Excalidraw/excalidrawLibrary/domainstorytelling.excalidrawlib",
-    "Excalidraw/excalidrawLibrary/it-icons.excalidrawlib",
-    "README.md",
-    "Excalidraw/Drawing 2024-08-26 15.13.59.excalidraw.md"
+    "README.md"
   ]
 }

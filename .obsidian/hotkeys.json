@@ -18,25 +18,19 @@
   "table-editor-obsidian:delete-row": [
     {
       "modifiers": [
-        "Ctrl"
+        "Ctrl",
+        "Shift"
       ],
-      "key": "X"
-    }
-  ],
-  "table-editor-obsidian:center-align-column": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "C"
+      "key": "R"
     }
   ],
   "table-editor-obsidian:delete-column": [
     {
       "modifiers": [
-        "Ctrl"
+        "Ctrl",
+        "Shift"
       ],
-      "key": "D"
+      "key": "C"
     }
   ],
   "table-editor-obsidian:format-all-tables": [
@@ -48,16 +42,49 @@
     }
   ],
   "table-editor-obsidian:table-control-bar": [],
-  "editor:swap-line-down": [
+  "table-editor-obsidian:format-table": [
     {
       "modifiers": [
         "Ctrl",
         "Shift"
       ],
-      "key": "ArrowUp"
+      "key": "F"
     }
   ],
-  "editor:swap-line-up": [
+  "editor:insert-table": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "T"
+    }
+  ],
+  "table-editor-obsidian:insert-row": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "R"
+    }
+  ],
+  "table-editor-obsidian:insert-column": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "C"
+    }
+  ],
+  "table-editor-obsidian:center-align-column": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "A"
+    }
+  ],
+  "editor:swap-line-down": [
     {
       "modifiers": [
         "Ctrl",
@@ -66,10 +93,19 @@
       "key": "ArrowDown"
     }
   ],
-  "table-editor-obsidian:move-column-left": [
+  "editor:swap-line-up": [
     {
       "modifiers": [
         "Ctrl",
+        "Shift"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "table-editor-obsidian:move-column-left": [
+    {
+      "modifiers": [
+        "Mod",
         "Shift"
       ],
       "key": "ArrowLeft"
@@ -78,10 +114,28 @@
   "table-editor-obsidian:move-column-right": [
     {
       "modifiers": [
-        "Ctrl",
+        "Mod",
         "Shift"
       ],
       "key": "ArrowRight"
+    }
+  ],
+  "table-editor-obsidian:move-row-down": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "table-editor-obsidian:move-row-up": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "ArrowUp"
     }
   ]
 }
