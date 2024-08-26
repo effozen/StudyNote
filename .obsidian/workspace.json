@@ -18,30 +18,20 @@
                 "backlinks": true,
                 "source": false
               }
-            },
-            "group": "065a41922692e418"
-          }
-        ]
-      },
-      {
-        "id": "42c67995a8f32bb8",
-        "type": "tabs",
-        "children": [
+            }
+          },
           {
-            "id": "003ba1ce825845e1",
+            "id": "903e2cf4ba67e90a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
+                "file": "Excalidraw/Drawing 2024-08-26 15.13.59.excalidraw.md"
               }
-            },
-            "group": "065a41922692e418"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Excalidraw/Drawing 2024-08-26 15.13.59.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Excalidraw/Drawing 2024-08-26 15.13.59.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Excalidraw/Drawing 2024-08-26 15.13.59.excalidraw.md"
               }
             }
           }
@@ -170,10 +160,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3df966572108d841",
+  "active": "d52a1fcafd2c4cd4",
   "lastOpenFiles": [
-    "assets/imgs",
-    "assets",
-    "README.md"
+    "Excalidraw/excalidrawLibrary/oracle-cloud-infrastructure-icons.excalidrawlib",
+    "Excalidraw/excalidrawLibrary/dnd-ttrpg-battle-map-creature-tokens.excalidrawlib",
+    "Excalidraw/excalidrawLibrary/simple-characters.excalidrawlib",
+    "Excalidraw/excalidrawLibrary/christmas-essentials.excalidrawlib",
+    "Excalidraw/excalidrawLibrary/camunda-platform-icons.excalidrawlib",
+    "Excalidraw/excalidrawLibrary/presentation-bundle.excalidrawlib",
+    "Excalidraw/excalidrawLibrary/bullet-journal-trackers.excalidrawlib",
+    "Excalidraw/excalidrawLibrary/fair-web-icons.excalidrawlib",
+    "Excalidraw/excalidrawLibrary/basic-system-design.excalidrawlib",
+    "Excalidraw/excalidrawLibrary/domainstorytelling.excalidrawlib",
+    "Excalidraw/excalidrawLibrary/it-icons.excalidrawlib",
+    "README.md",
+    "Excalidraw/Drawing 2024-08-26 15.13.59.excalidraw.md"
   ]
 }
