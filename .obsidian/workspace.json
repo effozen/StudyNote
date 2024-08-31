@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "지식창고/DOM/개요.md",
+                "file": "지식창고/나를 찾아 떠나는 여행/나를 찾아 떠나는 여행.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "지식창고/DOM/개요.md",
+                "file": "지식창고/나를 찾아 떠나는 여행/나를 찾아 떠나는 여행.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "지식창고/DOM/개요.md",
+                "file": "지식창고/나를 찾아 떠나는 여행/나를 찾아 떠나는 여행.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,16 +126,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "지식창고/DOM/개요.md"
+                "file": "지식창고/나를 찾아 떠나는 여행/나를 찾아 떠나는 여행.md"
               }
             }
+          },
+          {
+            "id": "93126ffece9d81db",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,10 +159,16 @@
   },
   "active": "3df966572108d841",
   "lastOpenFiles": [
+    "지식창고/나를 찾아 떠나는 여행/imgs/개발자.jpg",
+    "지식창고/나를 찾아 떠나는 여행/imgs",
+    "지식창고/DOM/개요.md",
+    "지식창고/나를 찾아 떠나는 여행/나를 찾아 떠나는 여행.md",
+    "지식창고/나를 찾아 떠나는 여행",
+    "지식창고/DOM/imgs/rendering.jpg",
+    "지식창고/DOM/imgs/배.jpg",
     "지식창고/DOM/imgs/주소창부터렌더링까지 1.png",
     "지식창고/DOM/imgs/주소창부터렌더링까지.png",
     "지식창고/DOM/imgs/스크린샷 2024-08-31 오전 9.05.30.png",
-    "지식창고/DOM/개요.md",
     "지식창고/DOM/imgs",
     "Excalidraw/DOM에 대한 그림.md",
     "Excalidraw/excalidrawLibrary/office-items.excalidrawlib",
@@ -167,8 +181,6 @@
     "도전기/나만의 템플릿 엔진 만들기.md",
     "지식창고",
     "Excalidraw/excalidrawLibrary/oracle-cloud-infrastructure-icons.excalidrawlib",
-    "Excalidraw/excalidrawLibrary/dnd-ttrpg-battle-map-creature-tokens.excalidrawlib",
-    "Excalidraw/excalidrawLibrary/simple-characters.excalidrawlib",
-    "Excalidraw/excalidrawLibrary/christmas-essentials.excalidrawlib"
+    "Excalidraw/excalidrawLibrary/dnd-ttrpg-battle-map-creature-tokens.excalidrawlib"
   ]
 }
