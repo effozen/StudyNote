@@ -269,3 +269,6 @@ fabric.properties
 .obsidian/
 .obsidian/*
 .obsidian
+*/.obsidian/
+*/.obsidian
+*/.obsidian/*
